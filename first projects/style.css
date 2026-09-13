@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://i.pinimg.com/1200x/85/9f/4a/859f4a6a81c576c42058269e1f07e3fb.jpg");
+}
+.login {
+    font-family: Arial, sans-serif;
+    background: none;
+    color: black;
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+
+}
+
+.paddling {
+    font-family: Arial, sans-serif;
+    background-color: rgb(228, 222, 222);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    border-radius: 18px;
+    border: 3px solid purple;
+}
+
+button {
+    font-family: Arial, sans-serif;
+    border-radius: 18px;
+    border: 1px solid purple;
+
+}
+
+input {
+    border-radius: 18px;
+    border: 1px solid rgb(199, 195, 199);
+}
